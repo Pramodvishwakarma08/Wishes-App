@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 
 class Category{
   String? category;
@@ -10,26 +9,7 @@ class Category{
 }
 
 List<Category> wishes =[
-  Category(
-    category: "NEW YEAR WHISHES",
-    msg: "May your new home be a foundation for many happy memories!"
-  ),
-  Category(
-      category: "NEW YE",
-      msg: "May your new home be filled with laughter and love!"
-  ),
-  Category(
-      category: "NEW YEAR WHISHES",
-      msg: "May your family and you grow old and happy together in your new home!"
-  ),
-  Category(
-      category: "NEW YEAR WHISHES",
-      msg: "Please accept my best wishes for your new home."
-  ),
-  Category(
-      category: "NEW YEAR WHISHES",
-      msg: "All the best in settling into your new home."
-  ),
+
   Category(
       category: "DIWALI WHISHES",
       msg: "दीप से दीप जले, आपको शांति और सफलता मिले।"
